@@ -1,14 +1,10 @@
-# Olá! 👋 Eu sou o Josué
+# Hello! 👋 I'm Josué!
 
->## Bio
+<strong>Web Developer</strong> 👨‍💻
 
-- Sou desenvolvedor front-end. 👨‍💻
-
-> 🛠 Tecnologias que desenvolvo:
+> 🛠 Tools:
 
 - HTML
 - CSS
-- JavaScript
 - Git
-- GitHub
 
