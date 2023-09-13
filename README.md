@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-<strong>Web Developer Freelancer</strong> 👨‍💻
+<strong>Web Developer</strong> 👨‍💻
 
 
 ## 🌐 Socials:
